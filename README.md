@@ -1,2 +1,2 @@
-# Program-Sederhana
-Tugas UAS yang diberikan oleh 
+# Program-Sederhana python
+Tugas UAS Dosen Joko Saputro, S.Kom., M.Kom.
